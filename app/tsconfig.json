@@ -24,7 +24,10 @@
     "buildOnSave": true,
     "files": [
         "app.component.ts",
-        "boot.ts"
+        "boot.ts",
+        "component/comun/cabecera.component.ts",
+        "component/comun/cuerpo.component.ts",
+        "component/comun/pie.component.ts"
     ],
     "atom": {
         "rewriteTsconfig": true
